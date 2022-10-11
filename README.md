@@ -1,8 +1,8 @@
 ### Hello, world!
 I'm Cinthia and I'm Systems Analysis and Development student.
-I currently work as an Administrative Assistant in an accounting firm, but I want work with back-end development.
+I currently work as an Administrative Assistant in an accounting firm, but I want to work with back-end development.
 
-- 🔭 I’m currently working on Administrative Assistant
+- 🔭 I’m currently working as an Administrative Assistant
 - 😄 Pronouns: She/Her
 
 <div> 
